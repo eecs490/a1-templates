@@ -1,2 +1,2 @@
 (* TODO: Implement psum. *)
-let psum l = raise NotImplemented
+let rec psum l = raise NotImplemented

@@ -3,5 +3,5 @@ let psum_tests = [
 ]
 
 (* TODO: Implement psum. *)
-let rec psum l =
+let psum l =
   raise NotImplemented
